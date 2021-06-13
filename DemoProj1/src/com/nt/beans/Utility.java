@@ -12,7 +12,16 @@ public void m1() {
 public void m4() {
 	System.out.println("Utility.m4()");
  }
+
 public void m7() {
 	System.out.println("Utility.m7()");
 }
+
+public void m6() {
+	System.out.println("Utility.m6()");
+}
+public void m8() {
+	System.out.println("Utility.m8()");
+}
+
 }
